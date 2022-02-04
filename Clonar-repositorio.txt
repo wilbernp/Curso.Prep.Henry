@@ -7,6 +7,9 @@ git push https://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@github.com/wilbernp/Cu
 
 comando para subir repositorio a gitHub
 
+hasta el @ hace parte del token de la cuenta
+despues del @ sigue la direccion del repositorio
+
 git clone https://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@github.com/wilbernp/repo1.git
 
 
