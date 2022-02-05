@@ -2,7 +2,7 @@ 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
 
 comando para clonar repo de gitHub
 
-git push https://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@github.com/wilbernp/Curso.Prep.Henry.git
+git clone https://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@github.com/wilbernp/repo1.git
 
 
 comando para subir repositorio a gitHub
@@ -10,7 +10,10 @@ comando para subir repositorio a gitHub
 hasta el @ hace parte del token de la cuenta
 despues del @ sigue la direccion del repositorio
 
-git clone https://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@github.com/wilbernp/repo1.git
+git push https://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@github.com/wilbernp/Curso.Prep.Henry.git
+
+
+
 
 
 

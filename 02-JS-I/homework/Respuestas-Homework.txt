@@ -1,0 +1,20 @@
+
+Variables: Es un espacio en memoria que se utilza para almacenar cualquier tipo de datos para despues poder acceder a ellos.las variables pueden ser de tipo:
+
+String: en este tipo de variables se guardan datos de tipo texto.
+Numerico: se utilizan para guardar cualquier tipo de numero.
+boleano: estas variables solo pueden almacenar dos estados false(Falso) y true(Verdadero).
+
+
+
+Strings: Hacen referencia a cualquier cadena de texto y siempre se tienen que declarar entre comillas.
+
+
+Funciones (argumentos, `return`): Las funciones son bloques de codigo que tienen como abjetivo principal la reutilzacion de codigo ya que se pueden invocar desde cualquier parte de este.
+Los argumentos son variables a traves de la cual las funciones reciven parametros, es decir valores para que se realice alguna operacion con ellos; dichos datos se tienen que enviar en el lugar donde se llame a la funcion, aunque no todas las funciones reciben parametros que en ocaciones no son necesarios. la palabra reservada 'return', se usa para que una funcion devuelva valores los cuales seran utilizados en otra parte del codigo, al igual que sucede con los parametros no todas las funciones devuelven valores.
+
+
+Declaraciones `if`: Es una estructura condicional, en la cual se especifica una condicion y si esta se cumple el se relizar� la accion establecida dentro de la estructura, y si la condicion no se cumple se realizar� lo que est� fuera de la estructura 'if'.
+
+
+Valores booleanos (`true`, `false`): Son valores que representan dos estados true y false; true se usa para determinar que algo es cierto y false se usa para determinar que algo no es cierto.
