@@ -1,0 +1,6 @@
+
+for: Es una estructura repetitiva que hace las instrucciones que esten dentro sus llaves se repitan hasta que cierta condicion se cumpla
+
+&&: Es el operador logico AND, sirve para determinar si todas condiciones se cumplen
+||: Es el operador logico OR, sirve para determinar que al menos una de las condiciones es verdadera
+!: Es el operador logico NOT, se utiliza para cambiar el siginificado de una afirmacion por ejemplo si la afimrmacion es verdadera quedara siendo falsa y viceversa
