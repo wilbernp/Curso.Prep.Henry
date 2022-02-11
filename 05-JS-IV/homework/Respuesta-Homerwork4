@@ -1,0 +1,11 @@
+Objetos: Son estructuras que sirven para agrupar datos que tienen caracteristicas comunes entre si.
+
+Propiedades: Son los datos que se almacenan en un objeto los cuales tienen un nombre y un valor para 
+poder acceder a ellos.
+
+Métodos: Son las acciones que se pueden realizar en el objeto.
+
+Bucle `for…in`: Se usa para recorrer los elementos de un objeto y asi poder acceder a elementos 
+que sin este bucle seria mas complicado acceder.
+
+Notación de puntos vs notación de corchetes: La notacion de puntos es mas facil de scribir, pero la notacion de corchetes permite utilizar cadenas de texto almacenadas en alguna variable.
