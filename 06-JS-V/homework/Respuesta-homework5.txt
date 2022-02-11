@@ -1,0 +1,3 @@
+prototype: Es un tipo de objeto que tienen todos los objetos en javaScript y que sirve para buscar propiedades que no fueron definidas en el propio objeto. El objeto prototype sirve tambien para obtener mas rendimiento ya que las propiedades de este solo se declaran una vez y se pueden usar las veces qu se necesit.
+
+Constructors(de Clases): Son un tipo de molde que sirven para crear nuevos objetos a partir de las mismas propiedades las cuales se definen una sola vez y se pueden crear tantos objetos como sea necesario sin rener que de volver a escribir las propiedades.
